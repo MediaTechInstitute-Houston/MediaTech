@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F1FECFC18FEF0AA001CD73D /* Admission.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F1FECFB18FEF0AA001CD73D /* Admission.m */; };
+		3F2080B618EF461F00970F95 /* Facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2080B518EF461F00970F95 /* Facebook.png */; };
+		3F2080B818EF462C00970F95 /* iphone_maps.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2080B718EF462C00970F95 /* iphone_maps.png */; };
+		3F2080BA18EF463F00970F95 /* Youtube.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2080B918EF463F00970F95 /* Youtube.png */; };
+		3F2A7B2C19059B8A00408D4E /* Staff_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F2A7B2B19059B8A00408D4E /* Staff_ViewController.m */; };
 		3F3D4F1F1880B18400474E20 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3D4F1E1880B18400474E20 /* Foundation.framework */; };
 		3F3D4F211880B18400474E20 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3D4F201880B18400474E20 /* CoreGraphics.framework */; };
 		3F3D4F231880B18400474E20 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3D4F221880B18400474E20 /* UIKit.framework */; };
@@ -21,6 +26,21 @@
 		3F3D4F401880B18400474E20 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3D4F221880B18400474E20 /* UIKit.framework */; };
 		3F3D4F481880B18400474E20 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F3D4F461880B18400474E20 /* InfoPlist.strings */; };
 		3F3D4F4A1880B18400474E20 /* MediaTech_InstituteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D4F491880B18400474E20 /* MediaTech_InstituteTests.m */; };
+		3F3D4F541880B62B00474E20 /* MediaTech Log.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3D4F531880B62B00474E20 /* MediaTech Log.png */; };
+		3F3D4F561880B72600474E20 /* Launch Small Log.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3D4F551880B72600474E20 /* Launch Small Log.png */; };
+		3F4F177418A977DC007DA4AB /* OverviewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F4F177318A977DC007DA4AB /* OverviewViewController.m */; };
+		3F96C6AA18C13A6B00475729 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F96C6A918C13A6B00475729 /* SystemConfiguration.framework */; };
+		3F96C6AD18C13FCD00475729 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F96C6AC18C13FCD00475729 /* Reachability.m */; };
+		3F96C6B118C14A9700475729 /* Connection Check.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F96C6B018C14A9700475729 /* Connection Check.png */; };
+		3F96C6B418C150A000475729 /* MediaTechContact.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F96C6B318C150A000475729 /* MediaTechContact.m */; };
+		3FABB70618908B9B00E06CF9 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FABB70518908B9B00E06CF9 /* SecondViewController.m */; };
+		3FAD00A418AEDED500C62C42 /* cellogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD00A318AEDED500C62C42 /* cellogo.png */; };
+		3FAD095818A18D59009DF128 /* ProgramsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FAD095718A18D59009DF128 /* ProgramsViewController.m */; };
+		3FAE20F018A454650062257D /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FAE20EF18A454650062257D /* iAd.framework */; };
+		3FAE20F618A45BF60062257D /* Home.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAE20F518A45BF60062257D /* Home.png */; };
+		3FE6411B18A2F279005BBC2C /* Cours.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3FE6411A18A2F279005BBC2C /* Cours.plist */; };
+		3FFA58C918B80C26005FE7BE /* AustinStudioA4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFA58C818B80C26005FE7BE /* AustinStudioA4.jpg */; };
+		3FFA58CF18B81AAD005FE7BE /* MoodleSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFA58CE18B81AAD005FE7BE /* MoodleSite.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +54,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F1FECFA18FEF0AA001CD73D /* Admission.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Admission.h; sourceTree = "<group>"; };
+		3F1FECFB18FEF0AA001CD73D /* Admission.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Admission.m; sourceTree = "<group>"; };
+		3F2080B518EF461F00970F95 /* Facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Facebook.png; sourceTree = "<group>"; };
+		3F2080B718EF462C00970F95 /* iphone_maps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone_maps.png; sourceTree = "<group>"; };
+		3F2080B918EF463F00970F95 /* Youtube.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Youtube.png; sourceTree = "<group>"; };
+		3F2A7B2A19059B8A00408D4E /* Staff_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Staff_ViewController.h; sourceTree = "<group>"; };
+		3F2A7B2B19059B8A00408D4E /* Staff_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Staff_ViewController.m; sourceTree = "<group>"; };
 		3F3D4F1B1880B18400474E20 /* MediaTech Institute.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MediaTech Institute.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3D4F1E1880B18400474E20 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3F3D4F201880B18400474E20 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +80,27 @@
 		3F3D4F451880B18400474E20 /* MediaTech InstituteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MediaTech InstituteTests-Info.plist"; sourceTree = "<group>"; };
 		3F3D4F471880B18400474E20 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3F3D4F491880B18400474E20 /* MediaTech_InstituteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MediaTech_InstituteTests.m; sourceTree = "<group>"; };
+		3F3D4F531880B62B00474E20 /* MediaTech Log.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MediaTech Log.png"; sourceTree = "<group>"; };
+		3F3D4F551880B72600474E20 /* Launch Small Log.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Launch Small Log.png"; sourceTree = "<group>"; };
+		3F4F177218A977DB007DA4AB /* OverviewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverviewViewController.h; sourceTree = "<group>"; };
+		3F4F177318A977DC007DA4AB /* OverviewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverviewViewController.m; sourceTree = "<group>"; };
+		3F96C6A918C13A6B00475729 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3F96C6AB18C13FCD00475729 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		3F96C6AC18C13FCD00475729 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		3F96C6B018C14A9700475729 /* Connection Check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Connection Check.png"; sourceTree = "<group>"; };
+		3F96C6B218C150A000475729 /* MediaTechContact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaTechContact.h; sourceTree = "<group>"; };
+		3F96C6B318C150A000475729 /* MediaTechContact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaTechContact.m; sourceTree = "<group>"; };
+		3FABB70418908B9B00E06CF9 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		3FABB70518908B9B00E06CF9 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		3FAD00A318AEDED500C62C42 /* cellogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cellogo.png; sourceTree = "<group>"; };
+		3FAD095618A18D59009DF128 /* ProgramsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgramsViewController.h; sourceTree = "<group>"; };
+		3FAD095718A18D59009DF128 /* ProgramsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgramsViewController.m; sourceTree = "<group>"; };
+		3FAE20EF18A454650062257D /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		3FAE20F518A45BF60062257D /* Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home.png; sourceTree = "<group>"; };
+		3FE6411A18A2F279005BBC2C /* Cours.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Cours.plist; sourceTree = "<group>"; };
+		3FFA58C818B80C26005FE7BE /* AustinStudioA4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AustinStudioA4.jpg; path = ../AustinStudioA4.jpg; sourceTree = "<group>"; };
+		3FFA58CD18B81AAD005FE7BE /* MoodleSite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoodleSite.h; sourceTree = "<group>"; };
+		3FFA58CE18B81AAD005FE7BE /* MoodleSite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoodleSite.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +108,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F96C6AA18C13A6B00475729 /* SystemConfiguration.framework in Frameworks */,
+				3FAE20F018A454650062257D /* iAd.framework in Frameworks */,
 				3F3D4F211880B18400474E20 /* CoreGraphics.framework in Frameworks */,
 				3F3D4F231880B18400474E20 /* UIKit.framework in Frameworks */,
 				3F3D4F1F1880B18400474E20 /* Foundation.framework in Frameworks */,
@@ -101,6 +151,8 @@
 		3F3D4F1D1880B18400474E20 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				3F96C6A918C13A6B00475729 /* SystemConfiguration.framework */,
+				3FAE20EF18A454650062257D /* iAd.framework */,
 				3F3D4F1E1880B18400474E20 /* Foundation.framework */,
 				3F3D4F201880B18400474E20 /* CoreGraphics.framework */,
 				3F3D4F221880B18400474E20 /* UIKit.framework */,
@@ -115,8 +167,22 @@
 				3F3D4F2D1880B18400474E20 /* AppDelegate.h */,
 				3F3D4F2E1880B18400474E20 /* AppDelegate.m */,
 				3F3D4F301880B18400474E20 /* Main.storyboard */,
+				3F4F177218A977DB007DA4AB /* OverviewViewController.h */,
+				3F4F177318A977DC007DA4AB /* OverviewViewController.m */,
+				3F96C6B218C150A000475729 /* MediaTechContact.h */,
+				3F96C6B318C150A000475729 /* MediaTechContact.m */,
 				3F3D4F331880B18400474E20 /* ViewController.h */,
 				3F3D4F341880B18400474E20 /* ViewController.m */,
+				3FAD095618A18D59009DF128 /* ProgramsViewController.h */,
+				3FAD095718A18D59009DF128 /* ProgramsViewController.m */,
+				3FABB70418908B9B00E06CF9 /* SecondViewController.h */,
+				3FABB70518908B9B00E06CF9 /* SecondViewController.m */,
+				3F1FECFA18FEF0AA001CD73D /* Admission.h */,
+				3F1FECFB18FEF0AA001CD73D /* Admission.m */,
+				3F2A7B2A19059B8A00408D4E /* Staff_ViewController.h */,
+				3F2A7B2B19059B8A00408D4E /* Staff_ViewController.m */,
+				3FFA58CD18B81AAD005FE7BE /* MoodleSite.h */,
+				3FFA58CE18B81AAD005FE7BE /* MoodleSite.m */,
 				3F3D4F361880B18400474E20 /* Images.xcassets */,
 				3F3D4F251880B18400474E20 /* Supporting Files */,
 			);
@@ -126,10 +192,22 @@
 		3F3D4F251880B18400474E20 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3FFA58C818B80C26005FE7BE /* AustinStudioA4.jpg */,
+				3FAE20F518A45BF60062257D /* Home.png */,
+				3F96C6B018C14A9700475729 /* Connection Check.png */,
+				3FE6411A18A2F279005BBC2C /* Cours.plist */,
 				3F3D4F261880B18400474E20 /* MediaTech Institute-Info.plist */,
+				3FAD00A318AEDED500C62C42 /* cellogo.png */,
+				3F2080B518EF461F00970F95 /* Facebook.png */,
+				3F3D4F531880B62B00474E20 /* MediaTech Log.png */,
 				3F3D4F271880B18400474E20 /* InfoPlist.strings */,
+				3F2080B718EF462C00970F95 /* iphone_maps.png */,
+				3F3D4F551880B72600474E20 /* Launch Small Log.png */,
+				3F96C6AB18C13FCD00475729 /* Reachability.h */,
+				3F96C6AC18C13FCD00475729 /* Reachability.m */,
 				3F3D4F2A1880B18400474E20 /* main.m */,
 				3F3D4F2C1880B18400474E20 /* MediaTech Institute-Prefix.pch */,
+				3F2080B918EF463F00970F95 /* Youtube.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -199,6 +277,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "MediaTech Institute";
 				TargetAttributes = {
+					3F3D4F1A1880B18400474E20 = {
+						DevelopmentTeam = B4NAS89XYJ;
+					};
 					3F3D4F3B1880B18400474E20 = {
 						TestTargetID = 3F3D4F1A1880B18400474E20;
 					};
@@ -229,8 +310,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F3D4F371880B18400474E20 /* Images.xcassets in Resources */,
+				3FAE20F618A45BF60062257D /* Home.png in Resources */,
+				3F2080B818EF462C00970F95 /* iphone_maps.png in Resources */,
+				3FAD00A418AEDED500C62C42 /* cellogo.png in Resources */,
+				3F96C6B118C14A9700475729 /* Connection Check.png in Resources */,
+				3F3D4F561880B72600474E20 /* Launch Small Log.png in Resources */,
 				3F3D4F291880B18400474E20 /* InfoPlist.strings in Resources */,
+				3FE6411B18A2F279005BBC2C /* Cours.plist in Resources */,
+				3F3D4F541880B62B00474E20 /* MediaTech Log.png in Resources */,
+				3F2080B618EF461F00970F95 /* Facebook.png in Resources */,
+				3FFA58C918B80C26005FE7BE /* AustinStudioA4.jpg in Resources */,
 				3F3D4F321880B18400474E20 /* Main.storyboard in Resources */,
+				3F2080BA18EF463F00970F95 /* Youtube.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +340,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F96C6B418C150A000475729 /* MediaTechContact.m in Sources */,
+				3FABB70618908B9B00E06CF9 /* SecondViewController.m in Sources */,
+				3F2A7B2C19059B8A00408D4E /* Staff_ViewController.m in Sources */,
+				3F4F177418A977DC007DA4AB /* OverviewViewController.m in Sources */,
+				3F1FECFC18FEF0AA001CD73D /* Admission.m in Sources */,
+				3FAD095818A18D59009DF128 /* ProgramsViewController.m in Sources */,
 				3F3D4F351880B18400474E20 /* ViewController.m in Sources */,
 				3F3D4F2F1880B18400474E20 /* AppDelegate.m in Sources */,
 				3F3D4F2B1880B18400474E20 /* main.m in Sources */,
+				3F96C6AD18C13FCD00475729 /* Reachability.m in Sources */,
+				3FFA58CF18B81AAD005FE7BE /* MoodleSite.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,10 +477,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MediaTech Institute/MediaTech Institute-Prefix.pch";
 				INFOPLIST_FILE = "MediaTech Institute/MediaTech Institute-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,10 +493,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MediaTech Institute/MediaTech Institute-Prefix.pch";
 				INFOPLIST_FILE = "MediaTech Institute/MediaTech Institute-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +565,7 @@
 				3F3D4F4F1880B18400474E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F3D4F501880B18400474E20 /* Build configuration list for PBXNativeTarget "MediaTech InstituteTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +574,7 @@
 				3F3D4F521880B18400474E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
